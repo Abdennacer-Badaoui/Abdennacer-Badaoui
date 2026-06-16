@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a Machine Learning Engineer at Hugging Face 🤗
 
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
