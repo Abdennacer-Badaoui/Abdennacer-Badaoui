@@ -1,19 +1,12 @@
 ### Hi there 👋
-I'm a Machine Learning Engineer at Hugging Face 🤗
 
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
-</div>
+I'm a Machine Learning Engineer at Hugging Face 🤗, working on **LLM inference optimization, quantization, and GPU acceleration**.
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/abdennacer-badaoui-412a02224/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://x.com/abdennacer0">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+  </a>
 </div>
-
-
-</div>
-
-
-
-
