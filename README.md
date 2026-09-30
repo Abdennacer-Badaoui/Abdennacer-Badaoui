@@ -4,10 +4,14 @@ I'm a Machine Learning Engineer at Hugging Face 🤗, working on **LLM inference
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abdennacer-badaoui-412a02224/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/abdennacer0">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40" alt="X"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/FFFFFF">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x/000000">
+      <img src="https://cdn.simpleicons.org/x/000000" width="32" height="32" alt="X"/>
+    </picture>
   </a>
 </div>
